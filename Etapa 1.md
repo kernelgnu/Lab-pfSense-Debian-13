@@ -35,7 +35,4 @@ O Debian 13 atua como máquina cliente da rede interna, permitindo testes de con
 - O ambiente é estritamente de laboratório, não recomendado para produção.
 - A separação WAN/LAN segue boas práticas de segmentação de rede.
 
----
-
-*Próxima etapa:* Configuração das interfaces de rede e ajustes iniciais do pfSense.
 
